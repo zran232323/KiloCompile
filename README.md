@@ -1,5 +1,5 @@
 # KiloTrace - KiloCompile Compression Tool
-
+## THIS VERSION IS IN ALPHA. LOTS OF BUGS HERE AND THERE. 
 KiloTrace is a modern GUI compression tool that uses the KiloCompile format with built-in security features and malware scanning.
 
 ## Features
